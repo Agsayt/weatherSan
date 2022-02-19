@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">weatherSan</string>
+    <string name="City">City</string>
+    <string name="CityNameHint">Enter city name</string>
+    <string name="Query">Query</string>
+    <string name="WindKmh">Wind speed</string>
+    <string name="DateString">Date</string>
+    <string name="TemperatureString">Temperature</string>
+    <string name="FeelslikeString">Feelslike</string>
+    <string name="FalloutString">Fallout</string>
+    <string name="WindDirectionString">Wind direction</string>
+    <string name="PressureString">Pressure</string>
+    <string name="ViewCloudString">View cloud</string>
+    <string name="PreciptionString">Preciption</string>
+    <string name="Back">Back</string>
+    <string name="Key">API Key</string>
+    <string name="Accept">Accept</string>
+    <string name="Cancel">Cancel</string>
+    <string name="DeleteAll">Clear History</string>
+
+</resources>
